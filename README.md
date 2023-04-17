@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRmYzRjY2QyY2I5M2IzYjVhYTFkYmI2YWFjNjU3MWMyZThmYWRhMyZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Icono developer" width="200" />
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  alt="Iconodeveloper" width="200" height="200">
     <h1 align="center">Hola amig@s 👋, Soy CapiDeveloper</h1>
     <h3 align="center">Soy originario de Ecuador y me apasiona el mundo de la tecnología y el desarrollo web.
         Soy un desarrollador Full Stack con experiencia en Front-end utilizando HTML, CSS, JavaScript, React, Redux Toolkit y Tailwind. En el Back-end, tengo conocimientos en MySQL, PHP y Laravel.
